@@ -21,7 +21,7 @@ public class App {
             //System.out.println(String.format("%s ", list1.get(i)));
         }
 
-        System.out.println("");
+        System.out.println(" ");
 
 
         // Create Array and list (2)
