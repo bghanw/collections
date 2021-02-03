@@ -1,2 +1,14 @@
 collections/App.java
  collections.App
+arraylist/interfaces/IIntCollection.java
+ arraylist.interfaces.IIntCollection
+arraylist/IntArrayList.java
+ arraylist.IntArrayList
+arraylist/IntArrayListTest.java
+ arraylist.IntArrayListTest
+arraylist/interfaces/IIntList.java
+ arraylist.interfaces.IIntList
+arraylist/LottoGenerator.java
+ arraylist.LottoGenerator
+arraylist/App.java
+ arraylist.App
